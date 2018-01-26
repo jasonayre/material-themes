@@ -1,0 +1,10 @@
+{
+  "name": "material-themes",
+  "version": "1.0.0",
+  "description": "Material Design themes and colors",
+  "main": "index.js",
+  "repository": "https://github.com/jasonayre/material-themes",
+  "author": "Jason Ayre",
+  "license": "MIT",
+  "private": false
+}
